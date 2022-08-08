@@ -1,3 +1,4 @@
 mouse
 teclado
 impressora
+scanner
